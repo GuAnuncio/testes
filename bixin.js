@@ -1,5 +1,5 @@
 function mostra() {
-    let nome= document.getElemntById(nome)value;
+    let nome= document.getElementById("nome")value;
     
-    document.getElemntById("resultado")InnerText="Oi, "+nome+"!"
+    document.getElemntById("resultado")innerText="Oi, "+nome+"!";
 }
